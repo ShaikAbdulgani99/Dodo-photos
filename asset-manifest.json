@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/github.io/Riyan-RehanBirthday/static/css/main.88819dfe.css",
-    "main.js": "/github.io/Riyan-RehanBirthday/static/js/main.85efacc6.js",
-    "static/media/Kids-Birthday-Happy-Birthday-English-Song.mp3": "/github.io/Riyan-RehanBirthday/static/media/Kids-Birthday-Happy-Birthday-English-Song.2607b570c2b13d6cd679.mp3",
-    "static/media/img2.jpg": "/github.io/Riyan-RehanBirthday/static/media/img2.68f7d1784c2f2ea45941.jpg",
-    "static/media/img1.jpg": "/github.io/Riyan-RehanBirthday/static/media/img1.da99379c320edd2a3587.jpg",
-    "static/media/img3.jpg": "/github.io/Riyan-RehanBirthday/static/media/img3.e5bdd420dde2d99dc84c.jpg",
-    "static/media/img4.jpg": "/github.io/Riyan-RehanBirthday/static/media/img4.d34f0f66699ee4d9c374.jpg",
-    "static/media/img6.jpg": "/github.io/Riyan-RehanBirthday/static/media/img6.631c56638c7ea9f58670.jpg",
-    "index.html": "/github.io/Riyan-RehanBirthday/index.html",
-    "main.88819dfe.css.map": "/github.io/Riyan-RehanBirthday/static/css/main.88819dfe.css.map",
-    "main.85efacc6.js.map": "/github.io/Riyan-RehanBirthday/static/js/main.85efacc6.js.map"
+    "main.css": "/Riyan-RehanBirthday/static/css/main.19e58bbf.css",
+    "main.js": "/Riyan-RehanBirthday/static/js/main.351a157d.js",
+    "static/media/Kids-Birthday-Happy-Birthday-English-Song.mp3": "/Riyan-RehanBirthday/static/media/Kids-Birthday-Happy-Birthday-English-Song.2607b570c2b13d6cd679.mp3",
+    "static/media/img2.jpg": "/Riyan-RehanBirthday/static/media/img2.68f7d1784c2f2ea45941.jpg",
+    "static/media/img1.jpg": "/Riyan-RehanBirthday/static/media/img1.da99379c320edd2a3587.jpg",
+    "static/media/img3.jpg": "/Riyan-RehanBirthday/static/media/img3.e5bdd420dde2d99dc84c.jpg",
+    "static/media/img4.jpg": "/Riyan-RehanBirthday/static/media/img4.d34f0f66699ee4d9c374.jpg",
+    "static/media/img6.jpg": "/Riyan-RehanBirthday/static/media/img6.631c56638c7ea9f58670.jpg",
+    "index.html": "/Riyan-RehanBirthday/index.html",
+    "main.19e58bbf.css.map": "/Riyan-RehanBirthday/static/css/main.19e58bbf.css.map",
+    "main.351a157d.js.map": "/Riyan-RehanBirthday/static/js/main.351a157d.js.map"
   },
   "entrypoints": [
-    "static/css/main.88819dfe.css",
-    "static/js/main.85efacc6.js"
+    "static/css/main.19e58bbf.css",
+    "static/js/main.351a157d.js"
   ]
 }
